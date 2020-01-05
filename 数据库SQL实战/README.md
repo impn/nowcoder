@@ -2,68 +2,68 @@
 
 题目为牛客网的在线SQL题，截止到2020年1月5日，共计61道题目
 
-https://www.nowcoder.com/ta/sql
+题目地址 https://www.nowcoder.com/ta/sql
 
-| 题目 | 热度指数 | 通过率 |
-| :-- | :--- | :------: |
-| [查找最晚入职员工的所有信息](https://www.nowcoder.com/practice/218ae58dfdcd4af195fff264e062138f?tpId=82&tqId=29753&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 49893 | 41.04% |
-| [查找入职员工时间排名倒数第三的员工所有信息](https://www.nowcoder.com/practice/ec1ca44c62c14ceb990c3c40def1ec6c?tpId=82&tqId=29754&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 44075 | 39.21% |
-| [查找各个部门当前领导当前薪水详情以及其对应部门编号dept_no](https://www.nowcoder.com/practice/c63c5b54d86e4c6d880e4834bfd70c3b?tpId=82&tqId=29755&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 39476 | 21.01% |
-| [查找所有已经分配部门的员工的last_name和first_name](https://www.nowcoder.com/practice/6d35b1cd593545ab985a68cd86f28671?tpId=82&tqId=29756&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 34249 | 35.31% |
-| [查找所有员工的last_name和first_name以及对应部门编号dept_no](https://www.nowcoder.com/practice/dbfafafb2ee2482aa390645abd4463bf?tpId=82&tqId=29757&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 31277 | 36.78% |
-| [查找所有员工入职时候的薪水情况](https://www.nowcoder.com/practice/23142e7a23e4480781a3b978b5e0f33a?tpId=82&tqId=29758&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 30364 | 27.63% |
-| [查找薪水涨幅超过15次的员工号emp_no以及其对应的涨幅次数t](https://www.nowcoder.com/practice/6d4a4cff1d58495182f536c548fee1ae?tpId=82&tqId=29759&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 28102 | 43.13% |
-| [找出所有员工当前具体的薪水salary情况](https://www.nowcoder.com/practice/ae51e6d057c94f6d891735a48d1c2397?tpId=82&tqId=29760&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 27923 | 47.72% |
-| [获取所有部门当前manager的当前薪水情况](https://www.nowcoder.com/practice/4c8b4a10ca5b44189e411107e1d8bec1?tpId=82&tqId=29761&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 26226 | 29.57% |
-| [获取所有非manager的员工emp_no](https://www.nowcoder.com/practice/32c53d06443346f4a2f2ca733c19660c?tpId=82&tqId=29762&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 25339 | 40.19% |
-| [获取所有员工当前的manager](https://www.nowcoder.com/practice/e50d92b8673a440ebdf3a517b5b37d62?tpId=82&tqId=29763&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 22847 | 30.76% |
-| [获取所有部门中当前员工薪水最高的相关信息](https://www.nowcoder.com/practice/4a052e3e1df5435880d4353eb18a91c6?tpId=82&tqId=29764&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 21948 | 25.96% |
-| [从titles表获取按照title进行分组](https://www.nowcoder.com/practice/72ca694734294dc78f513e147da7821e?tpId=82&tqId=29765&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 21451 | 51.28% |
-| [从titles表获取按照title进行分组，注意对于重复的emp_no进行忽略。](https://www.nowcoder.com/practice/c59b452f420c47f48d9c86d69efdff20?tpId=82&tqId=29766&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 20194 | 40.31% |
-| [查找employees表所有emp_no为奇数](https://www.nowcoder.com/practice/a32669eb1d1740e785f105fa22741d5c?tpId=82&tqId=29767&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 20432 | 44.99% |
-| [统计出当前各个title类型对应的员工当前薪水对应的平均工资](https://www.nowcoder.com/practice/c8652e9e5a354b879e2a244200f1eaae?tpId=82&tqId=29768&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 19544 | 31.79% |
-| [获取当前薪水第二多的员工的emp_no以及其对应的薪水salary](https://www.nowcoder.com/practice/8d2c290cc4e24403b98ca82ce45d04db?tpId=82&tqId=29769&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 19291 | 44.17% |
-| [查找当前薪水排名第二多的员工编号emp_no](https://www.nowcoder.com/practice/c1472daba75d4635b7f8540b837cc719?tpId=82&tqId=29770&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 17660 | 27.83% |
-| [查找所有员工的last_name和first_name以及对应的dept_name](https://www.nowcoder.com/practice/5a7975fabe1146329cee4f670c27ad55?tpId=82&tqId=29771&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 17028 | 30.14% |
-| [查找员工编号emp_now为10001其自入职以来的薪水salary涨幅值growth](https://www.nowcoder.com/practice/c727647886004942a89848e2b5130dc2?tpId=82&tqId=29772&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 16960 | 45.74% |
-| [查找所有员工自入职以来的薪水涨幅情况](https://www.nowcoder.com/practice/fc7344ece7294b9e98401826b94c6ea5?tpId=82&tqId=29773&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 15349 | 21.76% |
-| [统计各个部门对应员工涨幅的次数总和](https://www.nowcoder.com/practice/6a62b6c0a7324350a6d9959fa7c21db3?tpId=82&tqId=29774&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 12602 | 31.05% |
-| [对所有员工的当前薪水按照salary进行按照1-N的排名](https://www.nowcoder.com/practice/b9068bfe5df74276bd015b9729eec4bf?tpId=82&tqId=29775&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 11743 | 26.76% |
-| [获取所有非manager员工当前的薪水情况](https://www.nowcoder.com/practice/8fe212a6c71b42de9c15c56ce354bebe?tpId=82&tqId=29776&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 10765 | 27.86% |
-| [获取员工其当前的薪水比其manager当前薪水还高的相关信息](https://www.nowcoder.com/practice/f858d74a030e48da8e0f69e21be63bef?tpId=82&tqId=29777&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 9522  | 27.60% |
-| [汇总各个部门当前员工的title类型的分配数目](https://www.nowcoder.com/practice/4bcb6a7d3e39423291d2f7bdbbff87f8?tpId=82&tqId=29778&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 8821  | 24.32% |
-| [给出每个员工每年薪水涨幅超过5000的员工编号emp_no](https://www.nowcoder.com/practice/eb9b13e5257744db8265aa73de04fd44?tpId=82&tqId=29779&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7034  | 29.11% |
-| [查找描述信息中包括robot的电影对应的分类名称以及电影数目](https://www.nowcoder.com/practice/3a303a39cc40489b99a7e1867e6507c5?tpId=82&tqId=29780&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7631  | 19.75% |
-| [使用join查询方式找出没有分类的电影id以及名称](https://www.nowcoder.com/practice/a158fa6e79274ac497832697b4b83658?tpId=82&tqId=29781&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7147  | 38.27% |
-| [使用子查询的方式找出属于Action分类的所有电影对应的title,description](https://www.nowcoder.com/practice/2f2e556d335d469f96b91b212c4c203e?tpId=82&tqId=29782&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7071  | 44.63% |
-| [获取select](https://www.nowcoder.com/practice/18f30bb19fd34abebcf7e6397c7fb5d8?tpId=82&tqId=29799&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 8986  | 69.21% |
-| [将employees表的所有员工的last_name和first_name拼接起来作为Name，中间以一个空格区分](https://www.nowcoder.com/practice/6744b90bbdde40209f8ecaac0b0516fe?tpId=82&tqId=29800&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7659  | 37.97% |
-| [创建一个actor表，包含如下列信息](https://www.nowcoder.com/practice/ac233de508ef4849b0eeb4f38dcf09cf?tpId=82&tqId=29801&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 8000  | 25.61% |
-| [批量插入数据](https://www.nowcoder.com/practice/51c12cea6a97468da149c04b7ecf362e?tpId=82&tqId=29802&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7881  | 39.08% |
-| [批量插入数据,如果数据已经存在，请忽略，不使用replace操作](https://www.nowcoder.com/practice/153c8a8e7805400ba8e384e03acc6b3e?tpId=82&tqId=29803&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7175  | 48.79% |
-| [创建一个actor_name表，将actor表中的所有first_name以及last_name导入改表](https://www.nowcoder.com/practice/881385f388cf4fe98b2ed9f8897846df?tpId=82&tqId=29804&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6953  | 43.80% |
-| [对first_name创建唯一索引uniq_idx_firstname，对last_name创建普通索引idx_lastname](https://www.nowcoder.com/practice/e1824daa0c49404aa602cf0cb34bdd75?tpId=82&tqId=29805&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6651  | 44.05% |
-| [针对actor表创建视图actor_name_view](https://www.nowcoder.com/practice/b9db784b5e3d488cbd30bd78fdb2a862?tpId=82&tqId=29806&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6526  | 47.18% |
-| [针对上面的salaries表emp_no字段创建索引idx_emp_no，查询emp_no为10005,](https://www.nowcoder.com/practice/f9fa9dc1a1fc4130b08e26c22c7a1e5f?tpId=82&tqId=29807&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5983  | 41.05% |
-| [在last_update后面新增加一列名字为create_date](https://www.nowcoder.com/practice/119f04716d284cb7a19fba65dd876b03?tpId=82&tqId=29808&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6391  | 34.37% |
-| [构造一个触发器audit_log，在向employees表中插入一条数据的时候，触发插入相关的数据到audit中](https://www.nowcoder.com/practice/7e920bb2e1e74c4e83750f5c16033e2e?tpId=82&tqId=29809&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5241 | 42.44% |
-| [删除emp_no重复的记录，只保留最小的id对应的记录。](https://www.nowcoder.com/practice/3d92551a6f6d4f1ebde272d20872cf05?tpId=82&tqId=29810&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6411 | 52.95% |
-| [将所有to_date为9999-01-01的全部更新为NULL,且](https://www.nowcoder.com/practice/859f28f43496404886a77600ea68ef59?tpId=82&tqId=29811&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6304 | 50.71% |
-| [将id=5以及emp_no=10001的行数据替换成id=5以及emp_no=10005,其他数据保持不变，使用replace实现。](https://www.nowcoder.com/practice/2bec4d94f525458ca3d0ebf3bc8cd240?tpId=82&tqId=29812&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5872 | 58.25% |
-| [将titles_test表名修改为titles_2017](https://www.nowcoder.com/practice/5277d7f92aa746ab8aa42886e5d570d4?tpId=82&tqId=29813&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6370 | 55.98% |
-| [在audit表上创建外键约束，其emp_no对应employees_test表的主键id](https://www.nowcoder.com/practice/aeaa116185f24f209ca4fa40e226de48?tpId=82&tqId=29814&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4986 | 23.07% |
-| [如何获取emp_v和employees有相同的数据no](https://www.nowcoder.com/practice/2435cc7b43c94d3b88ffbcfadc0241de?tpId=82&tqId=29815&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6034 | 69.08% |
-| [将所有获取奖金的员工当前的薪水增加10%](https://www.nowcoder.com/practice/d3b058dcc94147e09352eb76f93b3274?tpId=82&tqId=29816&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5887 | 45.50% |
-| [针对库中的所有表生成select](https://www.nowcoder.com/practice/355036f7f0c8429a85281f7ac05b457a?tpId=82&tqId=29817&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4583 | 45.92% |
-| [将employees表中的所有员工的last_name和first_name通过(')连接起来。](https://www.nowcoder.com/practice/810bf4ee3ac64949b08983aa66ec7bee?tpId=82&tqId=29818&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5589 | 48.75% |
-| [查找字符串'10,A,B'](https://www.nowcoder.com/practice/e3870bd5d6744109a902db43c105bd50?tpId=82&tqId=29819&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5668 | 58.66% |
-| [获取Employees中的first_name，查询按照first_name最后两个字母，按照升序进行排列](https://www.nowcoder.com/practice/74d90728827e44e2864cce8b26882105?tpId=82&tqId=29820&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5804 | 58.50% |
-| [按照dept_no进行汇总，属于同一个部门的emp_no按照逗号进行连接，结果给出dept_no以及连接出的结果employees](https://www.nowcoder.com/practice/6e86365af15e49d8abe2c3d4b5126e87?tpId=82&tqId=29821&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5235 | 52.37% |
-| [查找排除当前最大、最小salary之后的员工的平均工资avg_salary](https://www.nowcoder.com/practice/95078e5e1fba4438b85d9f11240bc591?tpId=82&tqId=29822&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5524 | 27.93% |
-| [分页查询employees表，每5行一页，返回第2页的数据](https://www.nowcoder.com/practice/f24966e0cb8a49c192b5e65339bc8c03?tpId=82&tqId=29823&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6322 | 68.96% |
-| [获取所有员工的emp_no](https://www.nowcoder.com/practice/e2dab5477fdd4ec0ba84031f8e817b8a?tpId=82&tqId=29824&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4241 | 37.30% |
-| [使用含有关键字exists查找未分配具体部门的员工的所有信息。](https://www.nowcoder.com/practice/c39cbfbd111a4d92b221acec1c7c1484?tpId=82&tqId=29825&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4954 | 40.39% |
-| [获取employees中的行数据，且这些行也存在于emp_v中](https://www.nowcoder.com/practice/2556c1fcc92c490d9bf331ab07dfb7dc?tpId=82&tqId=29826&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5225 | 68.87% |
-| [获取有奖金的员工相关信息。](https://www.nowcoder.com/practice/5cdbf1dcbe8d4c689020b6b2743820bf?tpId=82&tqId=29827&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4621 | 29.57% |
-| [统计salary的累计和running_total](https://www.nowcoder.com/practice/58824cd644ea47d7b2b670c506a159a6?tpId=82&tqId=29828&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4830 | 34.57% |
-| [对于employees表中，给出奇数行的first_name](https://www.nowcoder.com/practice/e3cf1171f6cc426bac85fd4ffa786594?tpId=82&tqId=29829&tPage=4&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5993 | 32.41% |
+|编号|题目链接|热度指数|通过率|答案|
+| :- |:------ | :--: |:---|:--|
+| 01   | [查找最晚入职员工的所有信息](https://www.nowcoder.com/practice/218ae58dfdcd4af195fff264e062138f?tpId=82&tqId=29753&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 49893    | 41.04% | [01.sql](./SQL/01.sql)  |
+| 02   | [查找入职员工时间排名倒数第三的员工所有信息](https://www.nowcoder.com/practice/ec1ca44c62c14ceb990c3c40def1ec6c?tpId=82&tqId=29754&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 44075    | 39.21% | [02.sql](./SQL/02.sql)  |
+| 03   | [查找各个部门当前领导当前薪水详情以及其对应部门编号dept_no](https://www.nowcoder.com/practice/c63c5b54d86e4c6d880e4834bfd70c3b?tpId=82&tqId=29755&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 39476    | 21.01% | [03.sql](./SQL/03.sql)  |
+| 04   | [查找所有已经分配部门的员工的last_name和first_name](https://www.nowcoder.com/practice/6d35b1cd593545ab985a68cd86f28671?tpId=82&tqId=29756&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 34249    | 35.31% | [04.sql](./SQL/04.sql)  |
+| 05   | [查找所有员工的last_name和first_name以及对应部门编号dept_no](https://www.nowcoder.com/practice/dbfafafb2ee2482aa390645abd4463bf?tpId=82&tqId=29757&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 31277    | 36.78% | [05.sql](./SQL/05.sql)  |
+| 06   | [查找所有员工入职时候的薪水情况](https://www.nowcoder.com/practice/23142e7a23e4480781a3b978b5e0f33a?tpId=82&tqId=29758&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 30364    | 27.63% | [06.sql](./SQL/06.sql)  |
+| 07   | [查找薪水涨幅超过15次的员工号emp_no以及其对应的涨幅次数t](https://www.nowcoder.com/practice/6d4a4cff1d58495182f536c548fee1ae?tpId=82&tqId=29759&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 28102    | 43.13% | [07.sql](./SQL/07.sql)  |
+| 08   | [找出所有员工当前具体的薪水salary情况](https://www.nowcoder.com/practice/ae51e6d057c94f6d891735a48d1c2397?tpId=82&tqId=29760&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 27923    | 47.72% | [08.sql](./SQL/08.sql)  |
+| 09   | [获取所有部门当前manager的当前薪水情况](https://www.nowcoder.com/practice/4c8b4a10ca5b44189e411107e1d8bec1?tpId=82&tqId=29761&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 26226    | 29.57% | [09.sql](./SQL/09.sql)  |
+| 10   | [获取所有非manager的员工emp_no](https://www.nowcoder.com/practice/32c53d06443346f4a2f2ca733c19660c?tpId=82&tqId=29762&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 25339    | 40.19% | [10.sql](./SQL/10.sql) |
+| 11   | [获取所有员工当前的manager](https://www.nowcoder.com/practice/e50d92b8673a440ebdf3a517b5b37d62?tpId=82&tqId=29763&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 22847    | 30.76% | [11.sql](./SQL/11.sql) |
+| 12   | [获取所有部门中当前员工薪水最高的相关信息](https://www.nowcoder.com/practice/4a052e3e1df5435880d4353eb18a91c6?tpId=82&tqId=29764&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 21948    | 25.96% | [12.sql](./SQL/12.sql) |
+| 13   | [从titles表获取按照title进行分组](https://www.nowcoder.com/practice/72ca694734294dc78f513e147da7821e?tpId=82&tqId=29765&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 21451    | 51.28% | [13.sql](./SQL/13.sql) |
+| 14   | [从titles表获取按照title进行分组，注意对于重复的emp_no进行忽略。](https://www.nowcoder.com/practice/c59b452f420c47f48d9c86d69efdff20?tpId=82&tqId=29766&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 20194    | 40.31% | [14.sql](./SQL/14.sql) |
+| 15   | [查找employees表所有emp_no为奇数](https://www.nowcoder.com/practice/a32669eb1d1740e785f105fa22741d5c?tpId=82&tqId=29767&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 20432    | 44.99% | [15.sql](./SQL/15.sql) |
+| 16   | [统计出当前各个title类型对应的员工当前薪水对应的平均工资](https://www.nowcoder.com/practice/c8652e9e5a354b879e2a244200f1eaae?tpId=82&tqId=29768&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 19544    | 31.79% | [16.sql](./SQL/16.sql) |
+| 17   | [获取当前薪水第二多的员工的emp_no以及其对应的薪水salary](https://www.nowcoder.com/practice/8d2c290cc4e24403b98ca82ce45d04db?tpId=82&tqId=29769&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 19291    | 44.17% | [17.sql](./SQL/17.sql) |
+| 18   | [查找当前薪水排名第二多的员工编号emp_no](https://www.nowcoder.com/practice/c1472daba75d4635b7f8540b837cc719?tpId=82&tqId=29770&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 17660    | 27.83% | [18.sql](./SQL/18.sql) |
+| 19   | [查找所有员工的last_name和first_name以及对应的dept_name](https://www.nowcoder.com/practice/5a7975fabe1146329cee4f670c27ad55?tpId=82&tqId=29771&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 17028    | 30.14% | [19.sql](./SQL/19.sql) |
+| 20   | [查找员工编号emp_now为10001其自入职以来的薪水salary涨幅值growth](https://www.nowcoder.com/practice/c727647886004942a89848e2b5130dc2?tpId=82&tqId=29772&tPage=1&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 16960    | 45.74% | [20.sql](./SQL/20.sql) |
+| 21   | [查找所有员工自入职以来的薪水涨幅情况](https://www.nowcoder.com/practice/fc7344ece7294b9e98401826b94c6ea5?tpId=82&tqId=29773&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 15349    | 21.76% | [21.sql](./SQL/21.sql) |
+| 22   | [统计各个部门对应员工涨幅的次数总和](https://www.nowcoder.com/practice/6a62b6c0a7324350a6d9959fa7c21db3?tpId=82&tqId=29774&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 12602    | 31.05% | [22.sql](./SQL/22.sql) |
+| 23   | [对所有员工的当前薪水按照salary进行按照1-N的排名](https://www.nowcoder.com/practice/b9068bfe5df74276bd015b9729eec4bf?tpId=82&tqId=29775&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 11743    | 26.76% | [23.sql](./SQL/23.sql) |
+| 24   | [获取所有非manager员工当前的薪水情况](https://www.nowcoder.com/practice/8fe212a6c71b42de9c15c56ce354bebe?tpId=82&tqId=29776&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 10765    | 27.86% | [24.sql](./SQL/24.sql) |
+| 25   | [获取员工其当前的薪水比其manager当前薪水还高的相关信息](https://www.nowcoder.com/practice/f858d74a030e48da8e0f69e21be63bef?tpId=82&tqId=29777&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 9522     | 27.60% | [25.sql](./SQL/25.sql) |
+| 26   | [汇总各个部门当前员工的title类型的分配数目](https://www.nowcoder.com/practice/4bcb6a7d3e39423291d2f7bdbbff87f8?tpId=82&tqId=29778&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 8821     | 24.32% | [26.sql](./SQL/26.sql) |
+| 27   | [给出每个员工每年薪水涨幅超过5000的员工编号emp_no](https://www.nowcoder.com/practice/eb9b13e5257744db8265aa73de04fd44?tpId=82&tqId=29779&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7034     | 29.11% | [27.sql](./SQL/27.sql) |
+| 28   | [查找描述信息中包括robot的电影对应的分类名称以及电影数目](https://www.nowcoder.com/practice/3a303a39cc40489b99a7e1867e6507c5?tpId=82&tqId=29780&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7631     | 19.75% | [28.sql](./SQL/28.sql) |
+| 29   | [使用join查询方式找出没有分类的电影id以及名称](https://www.nowcoder.com/practice/a158fa6e79274ac497832697b4b83658?tpId=82&tqId=29781&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7147     | 38.27% | [29.sql](./SQL/29.sql) |
+| 30   | [使用子查询的方式找出属于Action分类的所有电影对应的title,description](https://www.nowcoder.com/practice/2f2e556d335d469f96b91b212c4c203e?tpId=82&tqId=29782&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7071     | 44.63% | [30.sql](./SQL/30.sql) |
+| 31   | [获取select](https://www.nowcoder.com/practice/18f30bb19fd34abebcf7e6397c7fb5d8?tpId=82&tqId=29799&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 8986     | 69.21% | [31.sql](./SQL/31.sql) |
+| 32   | [将employees表的所有员工的last_name和first_name拼接起来作为Name，中间以一个空格区分](https://www.nowcoder.com/practice/6744b90bbdde40209f8ecaac0b0516fe?tpId=82&tqId=29800&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7659     | 37.97% | [32.sql](./SQL/32.sql) |
+| 33   | [创建一个actor表，包含如下列信息](https://www.nowcoder.com/practice/ac233de508ef4849b0eeb4f38dcf09cf?tpId=82&tqId=29801&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 8000     | 25.61% | [33.sql](./SQL/33.sql) |
+| 34   | [批量插入数据](https://www.nowcoder.com/practice/51c12cea6a97468da149c04b7ecf362e?tpId=82&tqId=29802&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7881     | 39.08% | [34.sql](./SQL/34.sql) |
+| 35   | [批量插入数据,如果数据已经存在，请忽略，不使用replace操作](https://www.nowcoder.com/practice/153c8a8e7805400ba8e384e03acc6b3e?tpId=82&tqId=29803&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 7175     | 48.79% | [35.sql](./SQL/35.sql) |
+| 36   | [创建一个actor_name表，将actor表中的所有first_name以及last_name导入改表](https://www.nowcoder.com/practice/881385f388cf4fe98b2ed9f8897846df?tpId=82&tqId=29804&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6953     | 43.80% | [36.sql](./SQL/36.sql) |
+| 37   | [对first_name创建唯一索引uniq_idx_firstname，对last_name创建普通索引idx_lastname](https://www.nowcoder.com/practice/e1824daa0c49404aa602cf0cb34bdd75?tpId=82&tqId=29805&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6651     | 44.05% | [37.sql](./SQL/37.sql) |
+| 38   | [针对actor表创建视图actor_name_view](https://www.nowcoder.com/practice/b9db784b5e3d488cbd30bd78fdb2a862?tpId=82&tqId=29806&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6526     | 47.18% | [38.sql](./SQL/38.sql) |
+| 39   | [针对上面的salaries表emp_no字段创建索引idx_emp_no，查询emp_no为10005,](https://www.nowcoder.com/practice/f9fa9dc1a1fc4130b08e26c22c7a1e5f?tpId=82&tqId=29807&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5983     | 41.05% | [39.sql](./SQL/39.sql) |
+| 40   | [在last_update后面新增加一列名字为create_date](https://www.nowcoder.com/practice/119f04716d284cb7a19fba65dd876b03?tpId=82&tqId=29808&tPage=2&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6391     | 34.37% | [40.sql](./SQL/40.sql) |
+| 41   | [构造一个触发器audit_log，在向employees表中插入一条数据的时候，触发插入相关的数据到audit中](https://www.nowcoder.com/practice/7e920bb2e1e74c4e83750f5c16033e2e?tpId=82&tqId=29809&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5241     | 42.44% | [41.sql](./SQL/41.sql) |
+| 42   | [删除emp_no重复的记录，只保留最小的id对应的记录。](https://www.nowcoder.com/practice/3d92551a6f6d4f1ebde272d20872cf05?tpId=82&tqId=29810&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6411     | 52.95% | [42.sql](./SQL/42.sql) |
+| 43   | [将所有to_date为9999-01-01的全部更新为NULL,且](https://www.nowcoder.com/practice/859f28f43496404886a77600ea68ef59?tpId=82&tqId=29811&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6304     | 50.71% | [43.sql](./SQL/43.sql) |
+| 44   | [将id=5以及emp_no=10001的行数据替换成id=5以及emp_no=10005,其他数据保持不变，使用replace实现。](https://www.nowcoder.com/practice/2bec4d94f525458ca3d0ebf3bc8cd240?tpId=82&tqId=29812&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5872     | 58.25% | [44.sql](./SQL/44.sql) |
+| 45   | [将titles_test表名修改为titles_2017](https://www.nowcoder.com/practice/5277d7f92aa746ab8aa42886e5d570d4?tpId=82&tqId=29813&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6370     | 55.98% | [45.sql](./SQL/45.sql) |
+| 46   | [在audit表上创建外键约束，其emp_no对应employees_test表的主键id](https://www.nowcoder.com/practice/aeaa116185f24f209ca4fa40e226de48?tpId=82&tqId=29814&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4986     | 23.07% | [46.sql](./SQL/46.sql) |
+| 47   | [如何获取emp_v和employees有相同的数据no](https://www.nowcoder.com/practice/2435cc7b43c94d3b88ffbcfadc0241de?tpId=82&tqId=29815&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6034     | 69.08% | [47.sql](./SQL/47.sql) |
+| 48   | [将所有获取奖金的员工当前的薪水增加10%](https://www.nowcoder.com/practice/d3b058dcc94147e09352eb76f93b3274?tpId=82&tqId=29816&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5887     | 45.50% | [48.sql](./SQL/48.sql) |
+| 49   | [针对库中的所有表生成select](https://www.nowcoder.com/practice/355036f7f0c8429a85281f7ac05b457a?tpId=82&tqId=29817&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4583     | 45.92% | [49.sql](./SQL/49.sql) |
+| 50   | [将employees表中的所有员工的last_name和first_name通过(')连接起来。](https://www.nowcoder.com/practice/810bf4ee3ac64949b08983aa66ec7bee?tpId=82&tqId=29818&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5589     | 48.75% | [50.sql](./SQL/50.sql) |
+| 51   | [查找字符串'10,A,B'](https://www.nowcoder.com/practice/e3870bd5d6744109a902db43c105bd50?tpId=82&tqId=29819&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5668     | 58.66% | [51.sql](./SQL/51.sql) |
+| 52   | [获取Employees中的first_name，查询按照first_name最后两个字母，按照升序进行排列](https://www.nowcoder.com/practice/74d90728827e44e2864cce8b26882105?tpId=82&tqId=29820&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5804     | 58.50% | [52.sql](./SQL/52.sql) |
+| 53   | [按照dept_no进行汇总，属于同一个部门的emp_no按照逗号进行连接，结果给出dept_no以及连接出的结果employees](https://www.nowcoder.com/practice/6e86365af15e49d8abe2c3d4b5126e87?tpId=82&tqId=29821&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5235     | 52.37% | [53.sql](./SQL/53.sql) |
+| 54   | [查找排除当前最大、最小salary之后的员工的平均工资avg_salary](https://www.nowcoder.com/practice/95078e5e1fba4438b85d9f11240bc591?tpId=82&tqId=29822&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5524     | 27.93% | [54.sql](./SQL/54.sql) |
+| 55   | [分页查询employees表，每5行一页，返回第2页的数据](https://www.nowcoder.com/practice/f24966e0cb8a49c192b5e65339bc8c03?tpId=82&tqId=29823&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 6322     | 68.96% | [55.sql](./SQL/55.sql) |
+| 56   | [获取所有员工的emp_no](https://www.nowcoder.com/practice/e2dab5477fdd4ec0ba84031f8e817b8a?tpId=82&tqId=29824&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4241     | 37.30% | [56.sql](./SQL/56.sql) |
+| 57   | [使用含有关键字exists查找未分配具体部门的员工的所有信息。](https://www.nowcoder.com/practice/c39cbfbd111a4d92b221acec1c7c1484?tpId=82&tqId=29825&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4954     | 40.39% | [57.sql](./SQL/57.sql) |
+| 58   | [获取employees中的行数据，且这些行也存在于emp_v中](https://www.nowcoder.com/practice/2556c1fcc92c490d9bf331ab07dfb7dc?tpId=82&tqId=29826&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5225     | 68.87% | [58.sql](./SQL/58.sql) |
+| 59   | [获取有奖金的员工相关信息。](https://www.nowcoder.com/practice/5cdbf1dcbe8d4c689020b6b2743820bf?tpId=82&tqId=29827&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4621     | 29.57% | [59.sql](./SQL/59.sql) |
+| 60   | [统计salary的累计和running_total](https://www.nowcoder.com/practice/58824cd644ea47d7b2b670c506a159a6?tpId=82&tqId=29828&tPage=3&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 4830     | 34.57% | [60.sql](./SQL/60.sql) |
+| 61   | [对于employees表中，给出奇数行的first_name](https://www.nowcoder.com/practice/e3cf1171f6cc426bac85fd4ffa786594?tpId=82&tqId=29829&tPage=4&rp=&ru=/ta/sql&qru=/ta/sql/question-ranking) | 5993     | 32.41% | [61.sql](./SQL/61.sql) |
