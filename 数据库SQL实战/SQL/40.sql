@@ -1,0 +1,1 @@
+alter table actor add column create_date datetime NOT NULL default '0000-00-00 00:00:00';
